@@ -10,7 +10,7 @@ We designed a customized database, performed advanced SQL queries to extract ins
 **Overall Project Grade:** 95/100
 
 ### Repository Contents  
-- 📄 **Three PDF reports** summarizing project objectives, insights, and screenshots.  
+- 📄 **Three PDF reports** containing project objectives, insights, and all SQL code used in the project.  
 - 📈 **Power BI file** with interactive dashboards and analytical reports.  
 - 📊 **Excel file** containing the data tables, simulated manually using Python.  
 
