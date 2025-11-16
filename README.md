@@ -12,7 +12,7 @@ We designed a customized database, performed advanced SQL queries to extract ins
 ### Repository Contents  
 - 📄 **Three PDF reports** containing project objectives, insights, and all SQL code used in the project.  
 - 📈 **Power BI file** with interactive dashboards and analytical reports.  
-- 📊 **Excel file** containing the data tables, simulated manually using Python.  
+- 📊 **Excel file** containing the data tables, generated manually using Python.  
 
 ### Tools Used  
 - SQL  
